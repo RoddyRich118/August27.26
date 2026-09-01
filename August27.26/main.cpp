@@ -25,7 +25,8 @@ int main()
     Sleep(2,000);
     cout << "you ";
     Sleep(3,000);
-    cout << "wanted "
+    cout << "wanted";
+    //Added missing semicolon
 
 
 
